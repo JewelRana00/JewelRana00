@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Jewel Rana 👋
 
 - 🔭 I’m currently working on Lead Generation
 - 🌱 I’m currently learning "Web Development"
