@@ -1,4 +1,4 @@
-<img width="912" height="659" alt="image" src="https://github.com/user-attachments/assets/4ea9d9d8-838e-48c7-83cc-0443cb13ad12" />![GitHub Banner](./assets/background-3.png)
+![GitHub Banner](./assets/background-3.png)
 
 ### Frontend Developer in Progress | React | Next.js | TypeScript
 
