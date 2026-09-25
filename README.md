@@ -38,3 +38,7 @@ I'm a freelancer transitioning into web development, currently focused on buildi
 ### 🎯 My Goal:<br>
 Learn continuously, build real-world projects, solve business problems, and grow into a professional remote web developer.<br>
 ⭐ Thanks for visiting my profile!
+
+<h2></h2>
+
+![GitHub Banner](./assets/background-last.png)
