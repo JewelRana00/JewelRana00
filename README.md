@@ -1,6 +1,6 @@
 ## Hi, I'm Jewel Rana 👋
 
-# Frontend Developer in Progress | React | Next.js | TypeScript
+### Frontend Developer in Progress | React | Next.js | TypeScript
 
 I'm a freelancer transitioning into web development, currently focused on building modern and responsive web applications with JavaScript, TypeScript, React, and Next.js.
 
