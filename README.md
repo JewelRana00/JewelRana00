@@ -41,4 +41,4 @@ Learn continuously, build real-world projects, solve business problems, and grow
 
 <h2></h2>
 
-![GitHub Banner](./assets/background-last.png)
+![GitHub Banner](./assets/background-last-2.png)
