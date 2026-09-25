@@ -20,6 +20,6 @@ I'm a freelancer transitioning into web development, currently focused on buildi
 -Git & GitHub
 -Modern Frontend Development
 
-# 🎯 My Goal:
+### 🎯 My Goal:
 Learn continuously, build real-world projects, solve business problems, and grow into a professional remote web developer.
 ⭐ Thanks for visiting my profile!
