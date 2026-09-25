@@ -1,5 +1,5 @@
 ![GitHub Banner](./assets/background-3.png)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
 ### Frontend Developer in Progress | React | Next.js | TypeScript
 
 I'm a freelancer transitioning into web development, currently focused on building modern and responsive web applications with JavaScript, TypeScript, React, and Next.js.
