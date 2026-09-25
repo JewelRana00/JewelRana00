@@ -11,10 +11,10 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
 <h2></h2>
 </div>
-<br><br>
+<br>
+
 ### Frontend Developer in Progress | React | Next.js | TypeScript
 
 I'm a freelancer transitioning into web development, currently focused on building modern and responsive web applications with JavaScript, TypeScript, React, and Next.js.
