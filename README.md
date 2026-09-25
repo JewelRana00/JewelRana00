@@ -1,4 +1,4 @@
-![GitHub Banner](./assets/background-2.png)
+![GitHub Banner](./assets/Background-1.png)
 
 ### Frontend Developer in Progress | React | Next.js | TypeScript
 
