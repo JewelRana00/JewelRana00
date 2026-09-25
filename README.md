@@ -1,5 +1,4 @@
 ![GitHub Banner](./assets/background-2.png)
-## Hi, I'm Jewel Rana 👋
 
 ### Frontend Developer in Progress | React | Next.js | TypeScript
 
