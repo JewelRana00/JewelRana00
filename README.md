@@ -41,7 +41,4 @@ Learn continuously, build real-world projects, solve business problems, and grow
 
 <h2></h2>
 
-![Static Badge](https://img.shields.io/badge/Next.js)
-
-
 ![GitHub Banner](./assets/background-last.png)
