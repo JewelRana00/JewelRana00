@@ -12,7 +12,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)<br>
 
 </div>
-<h3></h3>
+<h2></h2>
 
 ### Frontend Developer in Progress | React | Next.js | TypeScript
 
