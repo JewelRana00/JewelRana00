@@ -19,10 +19,8 @@
 
 I'm a freelancer transitioning into web development, currently focused on building modern and responsive web applications with JavaScript, TypeScript, React, and Next.js.
 
-🌱 Currently learning React, TypeScript & Next.js<br>
 💻 Building projects with React + Vite + Tailwind CSS<br>
 🚀 Interested in remote web development opportunities<br>
-🎯 Long-term goal: Build useful web products and solve real-world problems<br>
 📍 Bangladesh<br>
 
 📚 Currently Learning<br>
